@@ -428,7 +428,7 @@ container{
 }
 
 .SECcont3{
-background-image: url(".../img/ShaunCarneiro.jpg");
+background-image: url(/img/ShaunCarneiro.jpg);
 background-size: cover;
 width: 100vw;
 height: 100vh;
@@ -489,4 +489,5 @@ overflow: hidden;
     background-color: var(--laranja-peixonauta);
 
 }
+
 
